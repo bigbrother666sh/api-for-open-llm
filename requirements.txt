@@ -17,3 +17,4 @@ sentence-transformers
 transformers_stream_generator
 cpm_kernels
 einops
+huggingface_hub
